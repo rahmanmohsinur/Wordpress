@@ -1,0 +1,19 @@
+a, #sharelist li, .sharelist li { transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out; }
+#sharelist, .sharelist { padding: 0 0; margin-left: -.4rem; margin-right: -.2607rem; }
+#sharelist li, .sharelist li { display: inline-flex; max-height: 35px; max-width: 35px; }
+#sharelist #facebook:hover, .sharelist .facebook:hover { background-color: #4867aa; }
+#sharelist #twitter:hover, .sharelist .twitter:hover { background-color: #00aced; }
+#sharelist #googleplus:hover, .sharelist .googleplus:hover { background-color: #db4437; }
+#sharelist #print:hover, .sharelist .print:hover { background-color: #28a745; }
+#print a { padding: .4rem .455rem 1.55rem .4rem; color: #28a745; }
+#facebook a { padding: .4rem .75rem .8rem .75rem; color: #4867aa; }
+#twitter a { padding: .5rem .427rem; color: #00aced; }
+#googleplus a { padding: .45rem .2607rem 1.15rem .2609rem; color: #db4437; }
+.print a { padding: .5rem; color: #28a745; }
+.facebook a { padding: .5rem .743rem; color: #4867aa; }
+.twitter a { padding: .5rem; color: #00aced; }
+.googleplus a { padding: .5rem .375rem; color: #db4437; }
+#facebook a:hover, #twitter a:hover, #googleplus a:hover, #print a:hover, .facebook a:hover, .twitter a:hover, .googleplus a:hover, .print a:hover { color: #ffffff; }
+
+@media (max-width: 575.99px) {
+}

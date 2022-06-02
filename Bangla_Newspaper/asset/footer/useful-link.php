@@ -1,0 +1,9 @@
+<div class="d-sm-flex justify-content-sm-between mb-0">
+    <div class="p-0"><a class="flex-link" href="http://www.chakri.com/?utm_source=Palo-Navigation-Menu&amp;utm_medium=In-House&amp;utm_campaign=Palo" target="_blank"><span><img src="<?php echo get_template_directory_uri(); ?>/asset/img/chakridot_icon.png"></span>চাকরি ডটকম</a></div>  
+    <div class="p-0"><a class="flex-link" href="http://bit.ly/1yJDU9O" target="_blank"><span><img src="<?php echo get_template_directory_uri(); ?>/asset/img/abcradio_icon.png"></span>abc রেডিও</a></div>
+    <div class="p-0"><a class="flex-link" href="https://www.prothomalo.com/bondhushava" target="_blank"><span><img src="<?php echo get_template_directory_uri(); ?>/asset/img/bondu.png"></span></a></div>
+    <div class="p-0"><a class="flex-link" href="https://www.prothomalo.com/2221" target="_blank"><span><img src="<?php echo get_template_directory_uri(); ?>/asset/img/2221_icon.png"></span>২২২১</a></div>
+    <div class="p-0"><a class="flex-link" href="https://www.prothomalo.com/trust" target="_blank"><span><img src="<?php echo get_template_directory_uri(); ?>/asset/img/trust_icon.png"></span>ট্রাস্ট</a></div>
+    <div class="p-0"><a class="flex-link" href="https://www.prothomalo.com/protichinta" target="_blank"><span><img src="<?php echo get_template_directory_uri(); ?>/asset/img/pchinta_icon.png"></span>প্রতিচিন্তা</a></div>
+    <div class="p-0"><a class="flex-link" href="https://www.prothomalo.com/kishoralo" target="_blank"><span><img src="<?php echo get_template_directory_uri(); ?>/asset/img/kishor_alo_icon.png"></span>কিশোর আলো</a></div>
+</div>
