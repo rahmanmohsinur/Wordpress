@@ -16,4 +16,5 @@ a, #sharelist li, .sharelist li { transition: color .15s ease-in-out,background-
 #facebook a:hover, #twitter a:hover, #googleplus a:hover, #print a:hover, .facebook a:hover, .twitter a:hover, .googleplus a:hover, .print a:hover { color: #ffffff; }
 
 @media (max-width: 575.99px) {
+	/**/
 }
